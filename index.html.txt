@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Free WiFi</title>
+</head>
+
+<body style="margin:0; background:black; text-align:center;">
+
+<h2 style="color:white; margin-top:20px;">Connecting to WiFi...</h2>
+
+<img src="donkey.jpg" style="width:95%; margin-top:20px; border-radius:10px;">
+
+</body>
+</html>
